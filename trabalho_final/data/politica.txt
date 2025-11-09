@@ -1,0 +1,344 @@
+Culto: A estabilidade política depende do diálogo constante entre as instituições.
+Coloquial: Política só anda pra frente quando o pessoal conversa de verdade.
+
+Culto: Reformas administrativas podem otimizar o funcionamento do Estado.
+Coloquial: Essas reformas aí podiam deixar tudo mais ágil no governo.
+
+Culto: A população ainda cobra transparência nas decisões públicas.
+Coloquial: A galera quer saber o que tá rolando nos bastidores do poder.
+
+Culto: Cada voto representa a essência da democracia participativa.
+Coloquial: Seu voto é o jeito mais direto de fazer parte da democracia.
+
+Culto: A polarização excessiva prejudica o debate racional.
+Coloquial: Quando todo mundo briga por política, ninguém se entende.
+
+Culto: A diplomacia constrói pontes onde antes havia muros.
+Coloquial: Política boa é aquela que faz as pessoas se entenderem.
+
+Culto: O combate à desigualdade exige políticas consistentes e contínuas.
+Coloquial: Sem projeto firme, desigualdade não acaba nunca.
+
+Culto: O discurso vazio mina a confiança dos eleitores.
+Coloquial: Falar bonito não enche barriga nem resolve problema.
+
+Culto: Mudanças legislativas devem refletir o interesse coletivo.
+Coloquial: Lei boa é a que ajuda todo mundo, não só os de cima.
+
+Culto: O populismo mascara problemas estruturais.
+Coloquial: Populismo é só maquiagem em política ruim.
+
+Culto: A democracia floresce quando há participação cidadã real.
+Coloquial: Se o povo participa, a democracia fica viva de verdade.
+
+Culto: O poder precisa estar a serviço do bem comum.
+Coloquial: Político tem que trabalhar pro povo, não pra ele mesmo.
+
+Culto: Crises políticas testam a maturidade das instituições.
+Coloquial: É nas tretas que a gente vê se o sistema aguenta.
+
+Culto: O Estado deve garantir direitos sem restringir liberdades.
+Coloquial: Governo bom protege o povo sem mandar demais.
+
+Culto: O diálogo multipartidário fortalece o equilíbrio democrático.
+Coloquial: Vários partidos conversando fazem a coisa andar melhor.
+
+Culto: O autoritarismo surge quando o debate é silenciado.
+Coloquial: Quando não pode discordar, já virou autoritarismo.
+
+Culto: A ética pública é a base da confiança social.
+Coloquial: Honestidade é o básico pra política funcionar.
+
+Culto: A alternância de poder assegura renovação institucional.
+Coloquial: Troca de comando evita que o poder apodreça.
+
+Culto: As políticas públicas devem ser avaliadas por resultados concretos.
+Coloquial: Plano de governo bom é o que funciona de verdade.
+
+Culto: Decisões pouco transparentes comprometem a legitimidade do governo.
+Coloquial: Quando o governo esconde coisa, a galera perde a fé.
+
+Culto: O envolvimento popular fortalece os princípios democráticos.
+Coloquial: Quando a galera se envolve, a democracia ganha força.
+
+Culto: Críticas fundamentadas podem aprimorar iniciativas políticas.
+Coloquial: Reclamação com motivo ajuda a melhorar a política.
+
+Culto: A representatividade amplia a diversidade de ideias.
+Coloquial: Ter gente diferente no poder traz ideias novas.
+
+Culto: O respeito às minorias é essencial para justiça social.
+Coloquial: Todo mundo merece respeito, principalmente quem é minoria.
+
+Culto: Políticas educacionais moldam o futuro da nação.
+Coloquial: Investir em escola muda o país pra melhor.
+
+Culto: O diálogo internacional promove entendimento global.
+Coloquial: Conversa entre países evita briga desnecessária.
+
+Culto: A liberdade de expressão é pilar essencial da sociedade pluralista.
+Coloquial: Falar o que pensa é direito de todo mundo.
+
+Culto: O voto consciente constrói eleições mais justas.
+Coloquial: Votar pensando no futuro faz diferença.
+
+Culto: O uso de tecnologia pode aumentar transparência política.
+Coloquial: Se tudo tá na internet, fica difícil esconder sujeira.
+
+Culto: O engajamento civil é necessário para reformas eficientes.
+Coloquial: Se a galera cobra, as coisas mudam mais fácil.
+
+Culto: Políticas fiscalizatórias promovem responsabilidade.
+Coloquial: Fiscalização impede político de fazer bagunça.
+
+Culto: O sistema eleitoral precisa evoluir conforme a sociedade.
+Coloquial: Se o jeito de votar não acompanha o tempo, fica pra trás.
+
+Culto: Eleitores bem informados tornam eleições mais legítimas.
+Coloquial: Quem sabe das coisas vota melhor.
+
+Culto: O uso correto de recursos fortalece a governança.
+Coloquial: Se não gastar à toa, o governo funciona melhor.
+
+Culto: Mudanças políticas devem considerar diversidade cultural.
+Coloquial: Cada região tem jeito próprio, política tem que respeitar isso.
+
+Culto: O apoio da sociedade civil impulsiona projetos públicos.
+Coloquial: Se o povo apoia, projeto vinga de verdade.
+
+Culto: O debate transparente evita manipulação.
+Coloquial: Conversa clara não deixa ninguém ser enganado.
+
+Culto: A justiça eleitoral garante igualdade nas disputas.
+Coloquial: Se todo mundo tem chance justa, a eleição vale.
+
+Culto: Políticos éticos inspiram confiança popular.
+Coloquial: Político que faz certo vira exemplo pra galera.
+
+Culto: Impostos justos promovem equilíbrio econômico.
+Coloquial: Se imposto tiver sentido, o povo aceita melhor.
+
+Culto: O respeito às leis é pilar da organização social.
+Coloquial: Se ninguém respeita a lei, vira bagunça.
+
+Culto: A renovação política traz perspectivas inovadoras.
+Coloquial: Novos políticos trazem ideias frescas.
+
+Culto: A participação feminina engrandece os debates políticos.
+Coloquial: Mulher na política só faz bem pra discussão.
+
+Culto: O enfrentamento da corrupção é urgente.
+Coloquial: Corrupção precisa ser combatida já.
+
+Culto: O entendimento intergeracional aprimora políticas.
+Coloquial: Vó e neto pensando junto mudam política pra melhor.
+
+Culto: O incentivo à participação jovem renova a democracia.
+Coloquial: Jovem engajado sacode a política pro bem.
+
+Culto: O acesso à informação fortalece decisões conscientes.
+Coloquial: Saber das coisas faz escolher melhor.
+
+Culto: Políticas sociais avançam com inclusão real.
+Coloquial: Projeto que pensa em todos faz a diferença.
+
+Culto: O respeito à oposição garante democracia saudável.
+Coloquial: Quem não concorda também merece ser ouvido.
+
+Culto: A análise crítica protege contra populismos.
+Coloquial: Pensar antes de apoiar político evita cilada.
+
+Culto: O voto secreto protege o eleitor.
+Coloquial: Ninguém precisa contar em quem votou.
+
+Culto: A cultura política determina engajamento democrático.
+Coloquial: Se todo mundo entende política, a democracia é mais forte.
+
+Culto: Mudanças estruturais requerem ampla discussão pública.
+Coloquial: Tem que debater bem antes de criar lei nova.
+
+Culto: O respeito ao resultado eleitoral é fundamental.
+Coloquial: Vale aceitar quando perde também.
+
+Culto: O Estado laico garante pluralidade de ideias.
+Coloquial: Política não deve misturar com religião.
+
+Culto: O orçamento público deve ser gerido com responsabilidade.
+Coloquial: Dinheiro do governo tem que ser usado certo.
+
+Culto: A fiscalização independente é essencial no setor público.
+Coloquial: Fiscal de fora evita rolo com dinheiro público.
+
+Culto: O pacto federativo equilibra poderes regionais.
+Coloquial: Cada Estado precisa ser respeitado na política.
+
+Culto: Políticas culturais fomentam identidade nacional.
+Coloquial: Cultura forte faz o país ser reconhecido.
+
+Culto: O Estado deve garantir igualdade de oportunidades.
+Coloquial: Todo mundo merece chance igual.
+
+Culto: O Legislativo tem papel vital na renovação política.
+Coloquial: Deputado bom faz política andar.
+
+Culto: O Judiciário independente assegura justiça imparcial.
+Coloquial: Juiz sem rabo preso decide melhor.
+
+Culto: A imprensa livre é indispensável para transparência.
+Coloquial: Sem jornal livre, notícia vira segredo.
+
+Culto: A descentralização política valoriza regiões diversas.
+Coloquial: Poder em todo canto é melhor do que tudo em Brasília.
+
+Culto: O diálogo internacional expande horizontes políticos.
+Coloquial: Política aberta com outros países só traz coisa boa.
+
+Culto: O combate à burocracia facilita acesso ao Estado.
+Coloquial: Menos papelada, mais solução rápida.
+
+Culto: Políticas ambientais preservam o futuro comum.
+Coloquial: Se não cuidar do ambiente, tá todo mundo ferrado depois.
+
+Culto: O uso abusivo do poder prejudica a democracia.
+Coloquial: Mandar demais em política só faz mal.
+
+Culto: O respeito à diversidade política enriquece debates.
+Coloquial: Ideia diferente faz a discussão crescer.
+
+Culto: O alinhamento entre poderes evita crises institucionais.
+Coloquial: Quando todo mundo se entende, não tem confusão no governo.
+
+Culto: Orçamentos transparentes previnem corrupção.
+Coloquial: Mostrar como gasta o dinheiro evita desvio.
+
+Culto: A representatividade de minorias eleva a justiça social.
+Coloquial: Dar espaço pra todo mundo é o justo.
+
+Culto: O voto pelo interesse coletivo engrandece a democracia.
+Coloquial: Pensar no grupo faz votar melhor.
+
+Culto: O combate à fake news é fundamental na política moderna.
+Coloquial: Notícia falsa na política só dá problema.
+
+Culto: O interesse público precisa guiar todas decisões.
+Coloquial: Política boa pensa no que é melhor pra geral.
+
+Culto: A transparência pública é a base do serviço estatal.
+Coloquial: Não esconder nada faz o governo ser confiável.
+
+Culto: O debate educado constrói pontes políticas.
+Coloquial: Falar educado sobre política evita treta.
+
+Culto: O Estado deve estimular participação comunitária.
+Coloquial: Político precisa chamar a galera pra opinar.
+
+Culto: O respeito à diversidade ideológica fortalece democracia.
+Coloquial: Ideia diferente é sinal de política saudável.
+
+Culto: O abuso de poder deve ser combatido energicamente.
+Coloquial: Político mandão precisa ser parado logo.
+
+Culto: O compromisso social é obrigação dos governantes.
+Coloquial: Quem governa tem que pensar no povo primeiro.
+
+Culto: O orçamento participativo democratiza decisões.
+Coloquial: Deixar o povo opinar sobre gasto é o certo.
+
+Culto: A consulta pública aprimora propostas políticas.
+Coloquial: Ouvir quem vai ser afetado faz a política melhorar.
+
+Culto: O respeito ao contraditório é sinal de maturidade política.
+Coloquial: Aceitar discordância mostra que sabe debater.
+
+Culto: Movimentos sociais influenciam pautas relevantes.
+Coloquial: Manifestação de rua muda até lei.
+
+Culto: O estudo de políticas internacionais traz aprendizados valiosos.
+Coloquial: Olhar pro que outros países fazem pode dar dica boa.
+
+Culto: A neutralidade estatal evita favorecimentos indevidos.
+Coloquial: Governo sem lado faz política mais justa.
+
+Culto: Políticas inclusivas reduzem desigualdades sociais.
+Coloquial: Se todo mundo participa, a diferença diminui.
+
+Culto: O respeito à legislação garante estabilidade social.
+Coloquial: Lei seguida direitinho evita confusão.
+
+Culto: O trabalho de base constrói partidos sólidos.
+Coloquial: Partido forte nasce do pé no chão no bairro.
+
+Culto: O processo democrático exige participação ativa.
+Coloquial: Democracia parada não vale nada.
+
+Culto: O equilíbrio de poderes evita abusos institucionais.
+Coloquial: Se ninguém manda sozinho, o sistema é mais seguro.
+
+Culto: O pacto social orienta escolhas políticas.
+Coloquial: Acordo entre todo mundo guia a política.
+
+Culto: O respeito às regras do jogo fortalece disputas justas.
+Coloquial: Seguir as regras faz todo mundo jogar limpo.
+
+Culto: O envolvimento estudantil enriquece proposta políticas.
+Coloquial: Jovem debatendo política traz ideia nova.
+
+Culto: A renovação do quadro político reprime práticas arcaicas.
+Coloquial: Tirar político antigo renova a política.
+
+Culto: O fomento ao voluntariado beneficia projetos públicos.
+Coloquial: Trabalho voluntário dá uma força nos projetos do governo.
+
+Culto: O acesso ao poder deve ser universal e democrático.
+Coloquial: Todo mundo merece participar das decisões.
+
+Culto: Políticas participativas respeitam pluralidade social.
+Coloquial: Fazer política pra todo tipo de gente é o certo.
+
+Culto: O combate a privilégios sustenta igualdade política.
+Coloquial: Ninguém merece mais favorecimento que o outro.
+
+Culto: O respeito entre adversários engrandece disputas eleitorais.
+Coloquial: Concorrente educado deixa a eleição mais civilizada.
+
+Culto: A busca por bem-estar coletivo deve orientar propostas públicas.
+Coloquial: Política boa cuida de todo mundo junto.
+
+Culto: O poder legítimo precisa do aval popular constante.
+Coloquial: Quem tá no poder tem que agradar o povo sempre.
+
+Culto: O fortalecimento institucional exige práticas éticas.
+Coloquial: Instituição forte nasce da honestidade.
+
+Culto: O controle social contribui para melhoria dos serviços públicos.
+Coloquial: Fiscalizar governo traz serviço melhor pra todo mundo.
+
+Culto: O estímulo ao voto jovem renova perspectivas democráticas.
+Coloquial: Novidade na política vem da juventude.
+
+Culto: O pluralismo político promove debates mais ricos e variados.
+Coloquial: Ideias diferentes juntam soluções novas.
+
+Culto: A inovação legislativa adapta o Estado a novas demandas.
+Coloquial: Lei nova precisa acompanhar os tempos.
+
+Culto: O conhecimento político protege contra manipulação ideológica.
+Coloquial: Saber das coisas evita ser manipulado.
+
+Culto: O respeito à ética eleitoral é fundamental.
+Coloquial: Eleição sem sacanagem é a única que vale.
+
+Culto: O monitoramento independente aumenta transparência de governo.
+Coloquial: Fiscal de fora mostra onde tá o erro no governo.
+
+Culto: O respeito às decisões judiciais mantém ordem pública.
+Coloquial: Juiz decidido ninguém reclama depois.
+
+Culto: O direito à manifestação enriquece o espaço democrático.
+Coloquial: Protesto é jeito de mostrar opinião.
+
+Culto: O engajamento de base fortalece políticas locais.
+Coloquial: Fazer política pertinho da galera dá um resultado melhor.
+
+Culto: A fiscalização ativa combate desvios de conduta.
+Coloquial: Fiscalizando sem parar pega os errados rapidinho.

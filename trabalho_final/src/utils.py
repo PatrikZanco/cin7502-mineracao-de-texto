@@ -8,6 +8,10 @@ import os
 import threading
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from sklearn.model_selection import cross_val_score, ShuffleSplit
+from sklearn.metrics import f1_score
+import time
+
 
 def cosine_sim_matrix(vectors, texts):
     sim = cosine_similarity(vectors)
@@ -40,3 +44,44 @@ def plot_similarity(sim_df, title, filename):
     thread.start()
     print(f"Gerando gráfico '{filename}' em background...")
     return thread
+
+
+
+def validate_model(model, X, y, name="Modelo", cv_splits=5):
+    """
+    Realiza validação cruzada (5-fold) e múltiplos splits aleatórios.
+    Retorna um dicionário contendo médias e desvios.
+    """
+    print(f"\n Validando {name}...")
+
+    if hasattr(X, "toarray"):
+        X_array = X.toarray()
+    else:
+        X_array = np.array(X)
+    y_array = np.array(y)
+
+    scores = cross_val_score(model, X_array, y_array, cv=cv_splits, scoring="f1_weighted")
+    cv_mean = np.mean(scores)
+    cv_std = np.std(scores)
+    print(f"  (5-fold) F1 médio: {cv_mean:.3f} ± {cv_std:.3f}")
+
+    rs = ShuffleSplit(n_splits=cv_splits, test_size=0.3, random_state=42)
+    shuffle_scores = []
+
+    for train_idx, test_idx in rs.split(X_array):
+        X_train, X_test = X_array[train_idx], X_array[test_idx]
+        y_train, y_test = y_array[train_idx], y_array[test_idx]
+        clf = model.__class__(**model.get_params()).fit(X_train, y_train)
+        pred = clf.predict(X_test)
+        shuffle_scores.append(f1_score(y_test, pred, average="weighted"))
+
+    sh_mean = np.mean(shuffle_scores)
+    sh_std = np.std(shuffle_scores)
+    print(f"  (ShuffleSplit) F1 médio: {sh_mean:.3f} ± {sh_std:.3f}")
+
+    return {
+        "cv_mean": cv_mean,
+        "cv_std": cv_std,
+        "sh_mean": sh_mean,
+        "sh_std": sh_std
+    }

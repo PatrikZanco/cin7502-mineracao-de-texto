@@ -1,0 +1,412 @@
+Culto: O comportamento do consumidor reflete mudanças culturais profundas.
+Coloquial: O jeito de comprar mostra como a galera pensa hoje em dia.
+
+Culto: A conscientização ambiental redefine as escolhas de consumo.
+Coloquial: Muita gente já pensa no planeta antes de comprar.
+
+Culto: A propaganda influencia desejos e percepções cotidianas.
+Coloquial: A publicidade faz a gente querer coisa que nem precisa.
+
+Culto: A economia digital ampliou o alcance das pequenas empresas.
+Coloquial: Hoje até lojinha pequena pode vender pra o país todo.
+
+Culto: O consumo responsável exige reflexão sobre impacto social.
+Coloquial: Comprar consciente é pensar no que isso muda pros outros.
+
+Culto: O excesso de ofertas causa saturação e indecisão.
+Coloquial: Com tanta opção, a gente nem sabe o que escolher.
+
+Culto: A experiência do cliente tornou-se um diferencial competitivo.
+Coloquial: Quem trata bem o cliente sai na frente.
+
+Culto: O endividamento crescente preocupa especialistas em finanças.
+Coloquial: Tá todo mundo parcelando mais do que devia.
+
+Culto: As marcas buscam fortalecer vínculos emocionais com os consumidores.
+Coloquial: As empresas querem que a gente "ame" as marcas delas.
+
+Culto: A obsolescência programada desafia a sustentabilidade.
+Coloquial: Os produtos duram pouco de propósito, só pra gente comprar de novo.
+
+Culto: O comércio digital facilita o acesso a uma variedade de produtos.
+Coloquial: Comprar pela internet faz tudo ficar mais fácil.
+
+Culto: O atendimento personalizado é valorizado no mercado atual.
+Coloquial: Quando loja faz tudo do jeito que você quer, é sucesso.
+
+Culto: O respeito ao consumidor é regra básica para fidelização.
+Coloquial: Loja que respeita o cliente sempre ganha freguês.
+
+Culto: Preços competitivos atraem consumidores atentos ao orçamento.
+Coloquial: Promoção atrai quem quer economizar.
+
+Culto: O marketing digital revoluciona estratégias empresariais.
+Coloquial: Internet mudou o jeito das empresas venderem.
+
+Culto: O pós-venda eficiente reforça a reputação da empresa.
+Coloquial: Atender bem depois da compra faz a loja virar favorita.
+
+Culto: Produtos de qualidade recebem reconhecimento espontâneo do mercado.
+Coloquial: Coisa boa vende por si só.
+
+Culto: A facilidade de crédito impulsionou o consumo recente.
+Coloquial: O povo compra porque parcelar tá moleza.
+
+Culto: O consumo exagerado revela desequilíbrios no orçamento familiar.
+Coloquial: Quem compra sem pensar acaba ficando no vermelho.
+
+Culto: O design inovador conquista consumidores modernos.
+Coloquial: Produto bonito chama atenção da galera.
+
+Culto: A busca por preço baixo aumenta comparativos entre lojas.
+Coloquial: Todo mundo pesquisa antes de fechar compra.
+
+Culto: O consumidor exigente obriga o setor a aprimorar serviços.
+Coloquial: Cliente chato faz loja caprichar.
+
+Culto: Tendências globais influenciam padrões de consumo local.
+Coloquial: O que bomba fora acaba chegando aqui também.
+
+Culto: O acesso facilitado ao crédito requer educação financeira adequada.
+Coloquial: Parcelar fácil faz a galera se enrolar se não souber dos limites.
+
+Culto: Os influenciadores digitais promovem marcas em larga escala.
+Coloquial: Um post famoso já faz todo mundo querer comprar igual.
+
+Culto: Políticas de devolução aumentam confiança na compra online.
+Coloquial: Saber que dá pra devolver sem problema faz comprar tranquilo.
+
+Culto: O consumo sustentável integra preocupações ambientais ao cotidiano.
+Coloquial: Quem pensa no planeta escolhe produto certo.
+
+Culto: O excesso de embalagens gera impacto ambiental.
+Coloquial: Embalagem demais só enche lixo.
+
+Culto: Os programas de fidelidade recompensam o consumidor habitual.
+Coloquial: Cartão de pontos faz a galera voltar sempre.
+
+Culto: A transparência no preço cria relações de confiança.
+Coloquial: Mostrar valor sem enrolação faz loja ser honesta.
+
+Culto: Produtos locais movimentam a economia regional.
+Coloquial: Comprar do vizinho fortalece o bairro.
+
+Culto: O consumo consciente depende de informação acessível.
+Coloquial: Só dá pra comprar certo sabendo a verdade do produto.
+
+Culto: O parcelamento excessivo compromete o balanço financeiro.
+Coloquial: Comprar tudo em várias vezes vira dor de cabeça depois.
+
+Culto: O cliente pode exigir respeito às normas de proteção.
+Coloquial: Tem lei pra proteger o freguês, tá na hora de usar.
+
+Culto: O varejo físico adapta-se para atrair o público digital.
+Coloquial: Loja da rua agora também tá na internet.
+
+Culto: A comodidade do delivery transformou hábitos de consumo.
+Coloquial: Ninguém quer sair, entrega é tudo hoje.
+
+Culto: O atendimento demorado afasta possíveis compradores.
+Coloquial: Esperar demais faz cliente desistir na hora.
+
+Culto: O consumo de moda expressa valores individuais.
+Coloquial: Roupas mostram o estilo de cada um.
+
+Culto: O feedback dos clientes aprimora produtos e serviços.
+Coloquial: Opinião do freguês faz as empresas mudarem.
+
+Culto: A dificuldade de troca reduz satisfação do consumidor.
+Coloquial: Troca enrolada faz todo mundo ficar puto.
+
+Culto: A tecnologia agiliza operações comerciais.
+Coloquial: Máquina rápida na loja salva o tempo de todo mundo.
+
+Culto: Produtos inovadores enfrentam resistência inicial.
+Coloquial: Novo sempre causa estranheza na hora de comprar.
+
+Culto: A informação sobre origem dos produtos é cada vez mais valorizada.
+Coloquial: Saber de onde vem as coisas mudou o jeito de comprar.
+
+Culto: O consumo ostentatório revela status e poder.
+Coloquial: Quem gosta de luxo compra só pra mostrar.
+
+Culto: Promoções relâmpago estimulam compras por impulso.
+Coloquial: Oferta do dia faz comprar sem nem pensar.
+
+Culto: O consumidor moderno busca praticidade e rapidez.
+Coloquial: Ninguém tem tempo a perder quando vai às compras.
+
+Culto: A valorização de marcas nacionais fomenta o mercado interno.
+Coloquial: Valorizar o que é nosso faz bem pra economia.
+
+Culto: A busca por experiências únicas valoriza o consumo personalizado.
+Coloquial: A galera quer serviço do jeitinho dela.
+
+Culto: A garantia estendida transmite confiança ao comprador.
+Coloquial: Garantia extra faz todo mundo se sentir seguro na compra.
+
+Culto: O excesso de publicidade digital pode tornar-se invasivo.
+Coloquial: Anúncio demais na internet enche o saco.
+
+Culto: A qualidade percebida impacta na decisão de compra.
+Coloquial: Se parece bom, já é meio caminho andado pra comprar.
+
+Culto: O consumidor informado exige provas de qualidade antes de comprar.
+Coloquial: Só compro depois de ver review de quem já usou.
+
+Culto: O comércio eletrônico cresceu por facilitar comparação de preços.
+Coloquial: Dá pra achar preço baixo porque tudo está online.
+
+Culto: A logística eficiente reduz tempo de espera e custos.
+Coloquial: Entrega rápida faz cliente feliz.
+
+Culto: O consumo de tecnologia redefine rotinas diárias.
+Coloquial: Gadgets mudaram a vida da galera.
+
+Culto: O reconhecimento das marcas depende do investimento em imagem.
+Coloquial: Marca forte é aquela que todo mundo conhece pelo logo.
+
+Culto: O consumidor de hoje valoriza produtos multifuncionais.
+Coloquial: Coisa que faz mil funções é o que todo mundo quer.
+
+Culto: O crédito facilitado aumentou a movimentação do comércio.
+Coloquial: Cartão e crediário colocam a galera pra gastar.
+
+Culto: A exigência por atendimento ágil cresceu nos últimos anos.
+Coloquial: Ninguém tem paciência pra fila enorme.
+
+Culto: O consumo pode ser instrumento de inclusão social.
+Coloquial: Comprar junto faz todo mundo se sentir parte.
+
+Culto: Produtos sustentáveis atendem demandas por respeito ambiental.
+Coloquial: Coisa ecológica tá na moda.
+
+Culto: O design intuitivo conquistou os consumidores contemporâneos.
+Coloquial: Facilidade de uso é tudo hoje.
+
+Culto: O consumidor atento lê rótulos antes de consumir.
+Coloquial: Tem que olhar o que tem no produto antes de usar.
+
+Culto: O desconto progressivo estimula compras em volumes maiores.
+Coloquial: Promoção de "leve três pague dois" sempre conquista o povo.
+
+Culto: O parcelamento sem juros facilita acesso ao consumo planejado.
+Coloquial: Sem juros, qualquer compra fica possível de pagar.
+
+Culto: O consumidor questiona práticas que afetam o ambiente.
+Coloquial: Tem gente que até faz boicote se empresa não respeita a natureza.
+
+Culto: O atendimento humanizado melhora a experiência de compra.
+Coloquial: Ser bem tratado na loja é o que todo mundo quer.
+
+Culto: O cliente espera rapidez na resolução de problemas.
+Coloquial: Resolva logo ou perco minha compra!
+
+Culto: O excesso de consumo pode gerar acumulação desnecessária.
+Coloquial: Tem gente que compra e nem usa.
+
+Culto: O consumidor seguro recomenda produtos de qualidade.
+Coloquial: Quem gosta sempre passa a dica pros outros.
+
+Culto: O comércio local fomenta relações de confiança na comunidade.
+Coloquial: Lojinha do bairro é de confiança.
+
+Culto: O consumidor ético evita empresas envolvidas em escândalos.
+Coloquial: Freguês que rejeita loja enrolada.
+
+Culto: O avanço do e-commerce mudou o conceito de shopping tradicional.
+Coloquial: Centro comercial de verdade é no celular agora.
+
+Culto: O consumidor insatisfeito pode gerar danos à reputação da marca.
+Coloquial: Cliente bravo detona loja na internet.
+
+Culto: O acesso às avaliações facilita decisão final.
+Coloquial: Ler review ajuda a não cair em cilada.
+
+Culto: A cautela na escolha de fornecedores é essencial em compras empresariais.
+Coloquial: Empresa tem que ficar esperta pra não comprar de quem enrola.
+
+Culto: O consumidor conectado influencia tendências de mercado.
+Coloquial: Basta viralizar que todo mundo quer mesmo produto.
+
+Culto: A reposição rápida é característica de lojas bem avaliadas.
+Coloquial: Faltar produto é sinal de loja bagunçada.
+
+Culto: A ética comercial fortalece marcas sólidas.
+Coloquial: Quem não engana vende por anos.
+
+Culto: O consumidor exigente impõe padrões elevados ao mercado.
+Coloquial: Freguês que cobra qualidade faz todo mundo melhorar.
+
+Culto: A antecipação de demanda estimula promoções sazonais.
+Coloquial: Liquidação em época de festa só cresce.
+
+Culto: A variedade de métodos de pagamento facilita a compra.
+Coloquial: Aceita tudo, até pix.
+
+Culto: O retorno eficiente conquista a fidelidade do consumidor.
+Coloquial: Quem resolve rápido vira loja favorita.
+
+Culto: O abandono de carrinhos digitais indica insatisfação com etapas finais.
+Coloquial: Se complicar checkout, nego larga pra lá.
+
+Culto: O consumidor global conecta tendências entre países diferentes.
+Coloquial: O que pega fora logo vira moda aqui.
+
+Culto: A móvelização das compras impulsiona o comércio eletrónico.
+Coloquial: Ninguém mais desliga do celular quando vai comprar.
+
+Culto: O assistente virtual aprimora o atendimento digital.
+Coloquial: Bot na loja agiliza conversa.
+
+Culto: O consumidor fiel dá valor ao serviço personalizado.
+Coloquial: Cliente de sempre gosta de ser reconhecido.
+
+Culto: O comércio tradicional adapta-se a novas tecnologias.
+Coloquial: Até lojinha antiga tá usando app agora.
+
+Culto: O consumidor moderno valoriza transparência e respeito.
+Coloquial: Freguês curte loja honesta.
+
+Culto: O consumo excessivo pode provocar esgotamento de recursos naturais.
+Coloquial: Comprar sem pensar acaba com tudo mais rápido.
+
+Culto: O cliente informado exige dados sobre fabricação.
+Coloquial: Gente curiosa pergunta de onde vem o produto.
+
+Culto: O atendimento multicanal tornou-se padrão nas empresas.
+Coloquial: Loja tem que atender por tudo: chat, telefone, zap.
+
+Culto: O produto durável tem mais valor no mercado consciente.
+Coloquial: Coisa que dura vale o investimento.
+
+Culto: A personalização do produto atrai consumidores especiais.
+Coloquial: Produto "com a sua cara" bomba.
+
+Culto: O consumidor digital espera segurança na compra online.
+Coloquial: Site sem proteção afasta geral.
+
+Culto: O desconto exclusivo fideliza compradores regulares.
+Coloquial: Quem ganha descontinho volta sempre.
+
+Culto: O retorno do cliente é fonte de inovação para empresas.
+Coloquial: Sugestão do cliente vira novidade.
+
+Culto: O consumidor atento segue tendências por influência externa.
+Coloquial: Basta algum influencer mostrar pra galera correr atrás.
+
+Culto: O consumo consciente equilibra desejo e necessidade real.
+Coloquial: Só compra quem precisa mesmo.
+
+Culto: O aluguel de produtos expandiu o mercado flexível.
+Coloquial: Alugar tá virando moda pra economizar.
+
+Culto: O consumidor cobra compromissos socioambientais.
+Coloquial: Quer saber antes se empresa faz certinho pro planeta.
+
+Culto: A agilidade na entrega estabelece padrões elevados de satisfação.
+Coloquial: Chegou rápido, ganhou cliente!
+
+Culto: O consumo colaborativo cresce em mercados urbanos.
+Coloquial: Dividir compra tá virando rotina.
+
+Culto: O cliente espera clareza nos contratos de compra.
+Coloquial: Sem letra miúda, fica mais tranquilo.
+
+Culto: O parcelamento inteligente evita inadimplência.
+Coloquial: Dividindo bem, ninguém atrasa conta.
+
+Culto: A gratuidade estimula experimentação de novos produtos.
+Coloquial: Amostra grátis faz todo mundo testar.
+
+Culto: O consumidor pesquisa marcas que valorizam diversidade.
+Coloquial: Loja que apoia todo mundo atrai mais gente.
+
+Culto: O pagamento facilitado expandiu o mercado.
+Coloquial: Pix, cartão, boleto... só não compra quem não quer.
+
+Culto: A reputação digital reforça credibilidade comercial.
+Coloquial: Loja com nota alta só cresce.
+
+Culto: O consumidor exigente valoriza atendimento ágil.
+Coloquial: Rapidez é tudo!
+
+Culto: O produto sustentável é tendência no mercado moderno.
+Coloquial: Só se fala em coisa ecológica.
+
+Culto: O consumidor pode transformar mercados inteiros com novas tendências.
+Coloquial: Quando todo mundo pede, loja corre atrás pra não perder venda.
+
+Culto: O crescimento do delivery altera hábitos de consumo.
+Coloquial: Agora é delivery pra tudo!
+
+Culto: O consumidor informado pondera antes de aderir à moda.
+Coloquial: Não compra por impulso, vê se vale a pena.
+
+Culto: O atendimento amigável transforma experiência de compra.
+Coloquial: Gentileza conquista freguês.
+
+Culto: A valorização das pequenas marcas fortalece o mercado diverso.
+Coloquial: Comprar de pequeno é legal pra todo mundo.
+
+Culto: O consumo consciente reduz desperdício.
+Coloquial: Comprando só o que precisa evita jogar fora.
+
+Culto: O cliente hoje tem voz ativa nas redes sociais.
+Coloquial: Reclamar online resolve rapidinho.
+
+Culto: O produto inovador desperta curiosidade e desejo.
+Coloquial: Coisa diferente chama geral.
+
+Culto: A promoção sazonal movimenta o comércio.
+Coloquial: Liquidação de fim de ano bomba.
+
+Culto: O consumidor moderno rejeita práticas abusivas.
+Coloquial: Se enrolar freguês, ninguém volta.
+
+Culto: O atendimento por aplicativo tornou-se alternativa eficaz.
+Coloquial: Pedir pelo app é vida.
+
+Culto: O respeito às necessidades especiais valoriza o cliente.
+Coloquial: Pensar no diferente faz a loja crescer.
+
+Culto: O cliente satisfeito compartilha boas experiências.
+Coloquial: Quem gosta, espalha pra todo mundo.
+
+Culto: O mercado exige inovação constante para se destacar.
+Coloquial: Mudança toda hora pra não ficar pra trás.
+
+Culto: O consumo consciente é tendência para o futuro.
+Coloquial: Pensar antes de comprar virou moda.
+
+Culto: O cliente espera recompensas por sua fidelidade.
+Coloquial: Freguês antigo merece brinde.
+
+Culto: O respeito às políticas de devolução tranquiliza o consumidor.
+Coloquial: Se não gostar, devolver sem dor de cabeça.
+
+Culto: A presença digital fortalece marcas tradicionais.
+Coloquial: Loja de rua na internet alcança tudo.
+
+Culto: O cliente valoriza experiências personalizadas na compra.
+Coloquial: Atendimento feito sob medida é melhor.
+
+Culto: O acesso facilitado à compra digital rompe barreiras geográficas.
+Coloquial: Agora compra do outro lado do país de boa.
+
+Culto: O consumidor exige soluções éticas para dilemas modernos.
+Coloquial: Ninguém aceita empresa que faz errado.
+
+Culto: O retorno rápido a reclamações fideliza clientes.
+Coloquial: Reclamei e resolveram, super indico!
+
+Culto: O cliente atento busca certificações de qualidade.
+Coloquial: Logo de selo bom já convence geral.
+
+Culto: O consumo coletivo pode baratear preços.
+Coloquial: Comprar em grupo sai mais em conta.
+
+Culto: O comércio moderno integra experiências físicas e digitais.
+Coloquial: Loja tem que ser boa no virtual e no presencial.
+
+

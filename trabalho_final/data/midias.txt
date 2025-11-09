@@ -1,0 +1,300 @@
+Culto: As mídias sociais transformaram o modo de interação humana.
+Coloquial: As redes mudaram totalmente a forma da gente se comunicar.
+
+Culto: O anonimato virtual pode encorajar discursos agressivos.
+Coloquial: Atrás da tela, muita gente fala o que nunca diria ao vivo.
+
+Culto: A busca por popularidade estimula comportamentos performáticos.
+Coloquial: Tem gente que vive pra ganhar curtida.
+
+Culto: A desinformação se espalha com velocidade alarmante.
+Coloquial: Fake news corre mais rápido que verdade.
+
+Culto: O equilíbrio entre privacidade e exposição é delicado.
+Coloquial: Difícil postar sem se expor demais.
+
+Culto: O engajamento digital redefine o conceito de influência.
+Coloquial: Ser influenciador virou profissão agora.
+
+Culto: O consumo de conteúdo imediato modifica padrões de atenção.
+Coloquial: Ninguém tem mais paciência pra vídeos longos.
+
+Culto: O uso consciente das redes fortalece conexões genuínas.
+Coloquial: Dá pra usar as redes de um jeito mais saudável.
+
+Culto: O algoritmo molda o hábito de navegação dos usuários.
+Coloquial: As redes só mostram o que elas acham que a gente quer ver.
+
+Culto: A cultura dos memes reflete o espírito da sociedade contemporânea.
+Coloquial: Meme virou a língua oficial da internet.
+
+Culto: A polarização em redes sociais intensifica conflitos sociais.
+Coloquial: Nas redes parece que só tem briga.
+
+Culto: O filtro bolha limita a diversidade de opiniões.
+Coloquial: Nas redes só aparece o que a gente quer ouvir.
+
+Culto: A dependência das redes digitais pode afetar a saúde mental.
+Coloquial: Ficar grudado no celular cansa a cabeça.
+
+Culto: O discurso de ódio é um problema crescente nas plataformas.
+Coloquial: Muita gente usa rede pra xingar os outros.
+
+Culto: O compartilhamento rápido pode propagar informações falsas.
+Coloquial: Notícia errada se espalha que nem fogo.
+
+Culto: O respeito à privacidade deve ser reforçado nas redes.
+Coloquial: Postar sem pensar pode causar problema.
+
+Culto: A interação virtual não substitui as relações presenciais.
+Coloquial: Amigo de verdade é quem tá do lado.
+
+Culto: As redes sociais democratizam a comunicação.
+Coloquial: Todo mundo pode falar nas redes.
+
+Culto: A curadoria de conteúdo protege contra a sobrecarga informativa.
+Coloquial: Tem muita coisa pra ver, dá pra se perder.
+
+Culto: O comportamento nas redes reflete traços da personalidade.
+Coloquial: O jeito que alguém post o diz muito.
+
+Culto: A gamificação estimula a participação dos usuários.
+Coloquial: A rede vira jogo pra galera entrar mais.
+
+Culto: A viralização de temas impulsiona debates públicos.
+Coloquial: Quando algo bomba, todo mundo comenta.
+
+Culto: As redes sociais influenciam tendências culturais.
+Coloquial: O que tá nas redes pega rápido.
+
+Culto: A exposição excessiva pode comprometer a segurança.
+Coloquial: Postar demais traz perigo.
+
+Culto: O marketing digital é foco principal nas redes sociais.
+Coloquial: Empresa só pensa em vender online.
+
+Culto: A autenticidade é valorizada pelo público digital.
+Coloquial: Quem é de verdade na rede ganha confiança.
+
+Culto: O controle parental nas redes é um desafio.
+Coloquial: Família fica de olho no que os filhos postam.
+
+Culto: As plataformas devem coibir discurso discriminatório.
+Coloquial: Rede tem que bloquear hate.
+
+Culto: As redes facilitam mobilizações sociais e políticas.
+Coloquial: Protesto agora é até pelo zap.
+
+Culto: O uso inadequado pode prejudicar a imagem pessoal.
+Coloquial: Postar besteira sai caro.
+
+Culto: A conectividade promove intercâmbio cultural global.
+Coloquial: Nas redes o mundo fica perto.
+
+Culto: A saturação de informações pode gerar ansiedade.
+Coloquial: Ver tanta notícia chata estressa.
+
+Culto: O respeito ao outro é fundamental para convivência virtual.
+Coloquial: Tratar bem na rede ajuda todo mundo.
+
+Culto: O compartilhamento de experiências reforça vínculos.
+Coloquial: Postar vida boa junta a galera.
+
+Culto: As redes ampliam espaços para expressão artística.
+Coloquial: Muitas artes surgem no Insta.
+
+Culto: A influência digital molda comportamentos coletivos.
+Coloquial: A galera imita os famosos.
+
+Culto: O anonimato pode proteger ou prejudicar reputações.
+Coloquial: Dá pra usar rede sem se identificar, mas cuidado.
+
+Culto: A manipulação algorítmica pode direcionar opiniões.
+Coloquial: Rede mostra só o que quer.
+
+Culto: O ativismo digital ganha força em causas globais.
+Coloquial: Campanha na internet muda até coisa grande.
+
+Culto: O excesso de notificações dispersa a atenção.
+Coloquial: Celular apita demais, não dá pra focar.
+
+Culto: O compartilhamento irresponsável traz consequências legais.
+Coloquial: Postar mentira pode dar processo.
+
+Culto: A privacidade deve ser priorizada na era digital.
+Coloquial: Tem que tomar cuidado com o que posta.
+
+Culto: O impacto das redes sociais ultrapassa fronteiras geográficas.
+Coloquial: O que acontece numa rede vira notícia até do outro lado do mundo.
+
+Culto: A educação digital é essencial para navegação segura.
+Coloquial: Tem que aprender a mexer direitinho na rede.
+
+Culto: Os influenciadores digitais exercem poder social significativo.
+Coloquial: Seguir famoso na rede é poder.
+
+Culto: O debate virtual precisa ser fundamentado e respeitoso.
+Coloquial: Discutir sem brigar é o ideal.
+
+Culto: A interação em tempo real revoluciona o consumo de notícias.
+Coloquial: Tudo acontece rapidinho na internet.
+
+Culto: As redes sociais criam novas formas de sociabilidade.
+Coloquial: Amizade agora também é virtual.
+
+Culto: A cultura do cancelamento apresenta riscos sociais.
+Coloquial: Cancelar gente online virou moda, mas pode machucar.
+
+Culto: O controle de dados pessoais é uma preocupação crescente.
+Coloquial: Todo mundo quer saber onde vão parar os dados.
+
+Culto: A segurança nas plataformas é fundamental para confiança do usuário.
+Coloquial: Sem segurança ninguém usa rede direito.
+
+Culto: A instantaneidade das redes pode prejudicar a reflexão.
+Coloquial: Postar sem pensar é um perigo.
+
+Culto: O conteúdo audiovisual é a preferência dominante.
+Coloquial: Vídeo bomba mais do que texto.
+
+Culto: As redes estimulam o empreendedorismo digital.
+Coloquial: Negócio online tá crescendo demais.
+
+Culto: O fenômeno da viralização pode ser imprevisível.
+Coloquial: Nunca sabe o que vai explodir na rede.
+
+Culto: A comunicação digital requer habilidades específicas.
+Coloquial: Precisa saber mexer bem pra usar rede.
+
+Culto: A interação virtual pode gerar senso de comunidade.
+Coloquial: Galera se une pelas redes.
+
+Culto: As redes sociais geram oportunidades e desafios.
+Coloquial: Rede ajuda, mas às vezes complica.
+
+Culto: O consumo exagerado de conteúdos pode ser prejudicial.
+Coloquial: Ficar horas grudado no celular não faz bem.
+
+Culto: A produção de conteúdo é cada vez mais acessível.
+Coloquial: Hoje qualquer um pode criar vídeo top.
+
+Culto: O raciocínio crítico ajuda na mediação de informações.
+Coloquial: Tem que pensar antes de acreditar.
+
+Culto: O marketing de influência é ferramenta poderosa.
+Coloquial: Famoso indicando produto vende bastante.
+
+Culto: As redes sociais ampliaram o alcance de campanhas sociais.
+Coloquial: Campanha social agora bomba na internet.
+
+Culto: O comportamento nas redes reflete valores sociais.
+Coloquial: O jeito de agir na rede diz muito da pessoa.
+
+Culto: O crescimento de comunidades online fortalece identidades.
+Coloquial: Grupo do zap une quem tem interesse igual.
+
+Culto: O monitoramento de redes é usado para segurança e marketing.
+Coloquial: Empresa e polícia ficam de olho nas redes.
+
+Culto: A educação midiática é fundamental para o uso consciente.
+Coloquial: Saber usar rede evita erro.
+
+Culto: O engajamento pode ser tanto positivo quanto tóxico.
+Coloquial: Às vezes a galera passa dos limites.
+
+Culto: As redes sociais causam transformações culturais profundas.
+Coloquial: Internet mudou tudo na vida da gente.
+
+Culto: O espaço virtual amplia possibilidades de expressão.
+Coloquial: Dá pra mostrar que nem dá na vida real.
+
+Culto: A popularização das redes gera dilemas éticos.
+Coloquial: Ficar famoso pode trazer problemas.
+
+Culto: A conectividade favorece diálogos e trocas culturais.
+Coloquial: Hoje todo mundo conversa com gente de todo canto.
+
+Culto: O excesso de informações exige filtros eficientes.
+Coloquial: Tem coisa demais, tem que filtrar.
+
+Culto: A pressão por aprovação social nas redes afeta autoestima.
+Coloquial: Curtição vira motivo de desespero.
+
+Culto: A construção de identidade nas redes é complexa.
+Coloquial: A gente cria um "eu" diferente na internet.
+
+Culto: O uso das redes deve ser equilibrado para evitar dependência.
+Coloquial: Tem que saber usar, sem exagero.
+
+Culto: O compartilhamento de notícias requer preocupação com veracidade.
+Coloquial: Tem que checar antes de passar adiante.
+
+Culto: O uso pedagógico das redes pode ampliar o ensino.
+Coloquial: Aula na internet é jeito novo de aprender.
+
+Culto: O consumo de conteúdo impõe ritmos acelerados.
+Coloquial: Todo mundo quer tudo rápido e agora.
+
+Culto: A moderação do conteúdo é vital para ambientes seguros.
+Coloquial: Tem que tirar coisa ruim pra rede ser boa.
+
+Culto: A personalização de feeds cria bolhas de opinião.
+Coloquial: Mostrar só o que a gente gosta engana a cabeça.
+
+Culto: O impacto das redes na política é crescente.
+Coloquial: Política hoje rola demais na internet.
+
+Culto: A real participação cívica depende da responsabilidade digital.
+Coloquial: Usar rede pra coisa boa faz a diferença.
+
+Culto: A cultura da notícia instantânea demanda reflexão crítica.
+Coloquial: Nem tudo que lê é verdade na hora.
+
+Culto: A rede social é palco para a construção de comunidades.
+Coloquial: Onde tem grupo, tem amizade.
+
+Culto: O respeito à diversidade na rede fortalece a convivência.
+Coloquial: Aceitar todo mundo faz a rede funcionar.
+
+Culto: O impacto das redes vai além do virtual.
+Coloquial: O que acontece na internet afeta a vida real.
+
+Culto: A evolução constante das plataformas impõe adaptação.
+Coloquial: Quem não acompanha fica pra trás.
+
+Culto: O fenômeno digital redefine padrões de comportamento social.
+Coloquial: Como agimos mudou com a rede.
+
+Culto: O debate nas redes sociais deve ser construtivo.
+Coloquial: Discutir sem brigar ajuda.
+
+Culto: Toxicidade nas redes sociais afasta usuários.
+Coloquial: Briga demais não dá vontade de ficar.
+
+Culto: O uso consciente das redes melhora o ambiente virtual.
+Coloquial: Se todo mundo se respeita, a rede é melhor.
+
+Culto: O combate à desinformação é tarefa coletiva.
+Coloquial: Todo mundo tem que ajudar a parar a fake.
+
+Culto: As redes sociais transformaram o conceito de privacidade.
+Coloquial: Nada mais é privado na internet.
+
+Culto: O marketing nas redes sociais é central para negócios modernos.
+Coloquial: Quem não tá na rede, fica pra trás.
+
+Culto: A criatividade é um diferencial nas publicações digitais.
+Coloquial: Post diferente chama atenção.
+
+Culto: O ativismo online amplia vozes marginalizadas.
+Coloquial: Rede dá vez pra quem antes não era ouvido.
+
+Culto: O consumo excessivo das redes pode levar à alienação.
+Coloquial: Ficando muito na internet, a gente perde a realidade.
+
+Culto: As redes sociais são espaços para entretenimento e informação.
+Coloquial: É diversão e notícia junto.
+
+Culto: A gestão de imagem pessoal é crucial nas redes.
+Coloquial: Cuidar do que posta é importante.
+
