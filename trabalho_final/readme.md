@@ -36,7 +36,8 @@ trabalho_final/
 │   ├── word2vec_model.py          # Implementação Word2Vec
 │   ├── bert_model.py              # Implementação BERT (SentenceTransformer)
 │   ├── style_classification.py    # Classificação culto × coloquial (com validação)
-│   └── main.py                    # Pipeline principal de execução
+│
+│── main.py                    # Pipeline principal de execução
 │
 ├── results/
 │   ├── plots/                     # Gráficos de similaridade TF-IDF / Word2Vec / BERT
