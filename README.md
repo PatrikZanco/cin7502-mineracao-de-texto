@@ -17,5 +17,21 @@ source venv/bin/activate # mac os e linux
 
 pip install -r requirements.txt # baixar todas as dependencias do projeto
 
-cd listas # para navegar até as listas de exercicios
+```
+
+## Tutorial de execução da questão 4 - Prova
+
+- Após realizar o setup, rode na raiz do projeto:
+```
+python prova/questao-4-patrik.py
+```
+Resultado esperado:
+```
+Tokens após pré-processamento: ['entreg', 'rápid', 'produt', 'excel', 'qual']
+Texto processado: entreg rápid produt excel qual
+
+Vocabulário: ['entreg' 'excel' 'produt' 'qual' 'rápid']
+Matriz de Embeddings (TF-IDF):
+[[0.4472136 0.4472136 0.4472136 0.4472136 0.4472136]]
+
 ```
